@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreMethodsInQueries.Persistence", "EFCoreMethodsInQueries.Persistence\EFCoreMethodsInQueries.Persistence.csproj", "{819ED4C4-1C77-4F84-B7AA-61B258C6F69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreMethodsInQueries.Persistence.IntegrationTests", "EFCoreMethodsInQueries.Persistence.IntegrationTests\EFCoreMethodsInQueries.Persistence.IntegrationTests.csproj", "{C873D9FF-7EDB-4E53-8242-36F394532A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreMethodsInQueries.Domain", "EFCoreMethodsInQueries.Domain\EFCoreMethodsInQueries.Domain.csproj", "{7D66B929-39B6-4558-B800-4E1341EA21BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819ED4C4-1C77-4F84-B7AA-61B258C6F69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819ED4C4-1C77-4F84-B7AA-61B258C6F69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819ED4C4-1C77-4F84-B7AA-61B258C6F69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819ED4C4-1C77-4F84-B7AA-61B258C6F69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C873D9FF-7EDB-4E53-8242-36F394532A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C873D9FF-7EDB-4E53-8242-36F394532A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C873D9FF-7EDB-4E53-8242-36F394532A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C873D9FF-7EDB-4E53-8242-36F394532A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D66B929-39B6-4558-B800-4E1341EA21BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D66B929-39B6-4558-B800-4E1341EA21BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D66B929-39B6-4558-B800-4E1341EA21BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D66B929-39B6-4558-B800-4E1341EA21BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
